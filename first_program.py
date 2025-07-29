@@ -1,3 +1,5 @@
 print("Kuzu, I am Jetsuen G Thinely")
-
-age=19
+a=2
+b=3
+sum=a+b
+print(sum)
